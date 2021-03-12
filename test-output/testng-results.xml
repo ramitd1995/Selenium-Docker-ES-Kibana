@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7311" started-at="2021-03-11T13:17:17 IST" finished-at="2021-03-11T13:17:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7311" started-at="2021-03-11T13:17:17 IST" finished-at="2021-03-11T13:17:24 IST">
+      <class name="main.java.Selenium_Docker.Selenium_Docker.SampleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:main.java.Selenium_Docker.Selenium_Docker.SampleTest@27a8c74e]" name="setUp" is-config="true" duration-ms="797" started-at="2021-03-11T13:17:17 IST" finished-at="2021-03-11T13:17:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bookflight()[pri:0, instance:main.java.Selenium_Docker.Selenium_Docker.SampleTest@27a8c74e]" name="bookflight" duration-ms="2586" started-at="2021-03-11T13:17:18 IST" description="Search for flights- Making Trips" finished-at="2021-03-11T13:17:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookflight -->
+        <test-method status="PASS" signature="search()[pri:0, instance:main.java.Selenium_Docker.Selenium_Docker.SampleTest@27a8c74e]" name="search" duration-ms="3550" started-at="2021-03-11T13:17:21 IST" description="Google Search of Selenium" finished-at="2021-03-11T13:17:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:main.java.Selenium_Docker.Selenium_Docker.SampleTest@27a8c74e]" name="tearDown" is-config="true" duration-ms="72" started-at="2021-03-11T13:17:24 IST" finished-at="2021-03-11T13:17:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- main.java.Selenium_Docker.Selenium_Docker.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
